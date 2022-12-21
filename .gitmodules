@@ -1,0 +1,3 @@
+[submodule "themes/diego"]
+	path = themes/diego
+	url = https://github.com/DiegolMarques/hugo-resume-temp

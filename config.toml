@@ -1,0 +1,45 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Diego Marques - Student Developer'
+theme = 'diego'
+disableKinds = ["RSS"]
+enableRobotsTXT = true
+enableGitInfo = true
+
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  firstName = "Diego"
+  lastName = "Marques"
+  address = "Ithaca, NY"
+  profileImage = "media/dm-logo.jpg"
+  email = "dlm352@cornell.edu"
+  description = "A logical and detail-oriented sophomore at Cornell University studying computer science. Previously, an intern on the Machine Learning Team at Ada Support. Researched automatic classroom lecture summarization using AI and deep learning in high school. Understands machine learning in production and full-stack web development. Maintains open-source NLP programs that perform state-of-the-art neural text summarization. Publishes guides for cybersecurity challenges. Enjoys running cross country in the fall and skiing in the winter."
+  favicon = "media/favicon.jpg"
+  resumePDF = "media/D.M. Resume.pdf"
+  # what sections
+  showSkills = true
+  showProjects = true
+  tags = ["DevOps", "Web Development", "Machine Learning", "App Development", "Cyber Security"]
+  showContributions = false
+  showPublications = false
+  showExperience = true
+  showEducation = true
+  news = false
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fab fa-github"
+  link = "https://github.com/diegolmarques"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fab fa-linkedin"
+  link = "https://www.linkedin.com/in/dmarques/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fab fa-twitter"
+  link = "https://twitter.com/DiegoMarques00"
