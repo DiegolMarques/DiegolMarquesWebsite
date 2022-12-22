@@ -7,7 +7,7 @@ tags: []
 resources:
 - name: "image"
   src: "dm-logo.jpg"
-link: "https://diegomarques.netlify.app/"
+link: "http://diegomarques.miami/"
 weight: 500
 sitemap:
   priority : 0.6
