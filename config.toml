@@ -1,4 +1,4 @@
-baseURL = 'https://melodic-sundae-9437ec.netlify.app/'
+baseURL = 'https://diegomarques.netlify.app/'
 languageCode = 'en-us'
 title = 'Diego Marques - Student Developer'
 theme = 'diego'

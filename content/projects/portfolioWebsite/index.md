@@ -7,7 +7,7 @@ tags: []
 resources:
 - name: "image"
   src: "dm-logo.jpg"
-link: "https://melodic-sundae-9437ec.netlify.app/"
+link: "https://diegomarques.netlify.app/"
 weight: 500
 sitemap:
   priority : 0.6
