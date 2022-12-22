@@ -3,7 +3,7 @@ title: "Portfolio Website"
 date: 2022-12-21T18:15:27-05:00
 featured: true
 description: "Website to showcase webdev skills and resume"
-tags: []
+tags: ["Web Development"]
 resources:
 - name: "image"
   src: "dm-logo.jpg"
