@@ -1,10 +1,10 @@
 {
     "experiences": [
         {
-            "title": "Machine Learning Intern @ [Ada Support](https://ada.cx)",
+            "title": "Tech Associate / Instructor @ [Learn 01](https://learn01.io/)",
             "subtitle": "",
-            "summary": "- **Improved Ada's production accuracy by 8%** using only 3% of production data by developing a novel intent classification pipeline.\n- Conducted **>60 experiments** and trained >110 models to determine the most accurate methodology.\n- Experimented with knowledge transfer, unsupervised learning of sentence embeddings, multi-task learning, and contrastive losses in the context of transformers and support vector machines.",
-            "range": "May 2022 – Aug 2022"
+            "summary": "- **Taught groups of 50+** entry level students topics involving computer programming, algorithms, and cybersecurity.\n- Conducted **Organized and planned 100+** person events such as hackathons and competitive programming tournaments\n- Contributed to the development of customizable and enjoyable student based curriculum that is still in use.",
+            "range": "Jun 2018 – Jun 2022"
         },
         {
             "title": "Undergraduate Student Researcher @ [CUAI](https://cuai.github.io)",
