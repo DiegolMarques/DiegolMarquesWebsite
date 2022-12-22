@@ -13,4 +13,4 @@ sitemap:
   priority : 0.6
 ---
 
-This website was generated using [hugo](https://gohugo.io/), a framework and static site generator for building websites, alongside an [open source theme](https://github.com/DiegolMarques/hugo-resume-temp) built myself.
+This website was generated using [hugo](https://gohugo.io/), a framework and static site generator for building websites, alongside an [open source theme](https://github.com/DiegolMarques/hugo-resume-temp) built myself. The github page for the actual website can be found here: [Diego's Personal Website](https://github.com/DiegolMarques/DiegolMarquesWebsite/)

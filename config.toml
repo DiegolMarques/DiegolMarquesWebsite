@@ -13,7 +13,7 @@ enableGitInfo = true
 [params]
   firstName = "Diego"
   lastName = "Marques"
-  address = "Ithaca, NY"
+  address = "Miami, Fl"
   profileImage = "media/dm-logo.jpg"
   email = "dlm352@cornell.edu"
   description = "A logical and detail-oriented sophomore at Cornell University studying computer science. Previously, an intern on the Machine Learning Team at Ada Support. Researched automatic classroom lecture summarization using AI and deep learning in high school. Understands machine learning in production and full-stack web development. Maintains open-source NLP programs that perform state-of-the-art neural text summarization. Publishes guides for cybersecurity challenges. Enjoys running cross country in the fall and skiing in the winter."
