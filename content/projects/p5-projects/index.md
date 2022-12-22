@@ -3,7 +3,7 @@ title: "P5 Projects"
 date: 2022-12-22T00:42:22-05:00
 featured: true
 description: "A collection of P5 and Processing projects used to learn the language"
-tags: []
+tags: ["Education"]
 resources:
 - name: "image"
   src: "p5.jpg"
