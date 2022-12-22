@@ -2,7 +2,7 @@
 title: "Twitter Bot"
 date: 2022-12-22T00:18:27-05:00
 featured: true
-description: "Twitter bot that counts down hours till Wednesday (Deactivated)"
+description: "Counts down hours till Wednesday using memes (Deactivated)"
 tags: ["Web Development"]
 resources:
 - name: "image"
