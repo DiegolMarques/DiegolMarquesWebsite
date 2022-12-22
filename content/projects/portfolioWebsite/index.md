@@ -6,7 +6,7 @@ description: "Website to showcase webdev skills and resume"
 tags: ["Web Development"]
 resources:
 - name: "image"
-  src: "dm-logo2.jpg"
+  src: "dm-logo1.jpg"
 link: "http://diegomarques.miami/"
 weight: 500
 sitemap:
