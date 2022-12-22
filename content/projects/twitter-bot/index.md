@@ -12,4 +12,5 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
-A useless but funny [twitter bot](https://twitter.com/isWednesdayHere) meant to count down the hours till wednesday within the week. \n Generated using Heroku as a cloud platform to push tweets every **three hours**.
+A useless but funny [twitter bot](https://twitter.com/isWednesdayHere) meant to count down the hours till wednesday within the week. 
+Generated using Heroku as a cloud platform to push tweets every **three hours**.
