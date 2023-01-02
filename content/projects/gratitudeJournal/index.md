@@ -2,11 +2,11 @@
 title: "Gratitude Journal Website"
 date: 2023-1-1T8:42:46-04:00
 featured: true
-description: "MERN CRUD Application used for journaling"
+description: "MERN CRUD Application used for Gratitude journaling"
 tags: ["Web Development"]
 resources:
 - name: "image"
-  src: "underConstruction.png"
+  src: "bookjpg.jpg"
 link: "https://github.com/"
 weight: 200
 sitemap:
