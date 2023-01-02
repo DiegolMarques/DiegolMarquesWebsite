@@ -7,7 +7,7 @@ tags: ["Web Development"]
 resources:
 - name: "image"
   src: "bookjpg.jpg"
-link: "https://github.com/"
+link: "https://github.com/DiegolMarques"
 weight: 200
 sitemap:
   priority : 0.8
