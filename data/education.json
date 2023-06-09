@@ -5,18 +5,9 @@
       "degree": "Bachelor of Science",
       "major": "Computer Science",
       "notes": {
-        "Relevant Coursework": "[Object Oriented Programming and Data Structures](https://courses.cornell.edu/preview_course_nopop.php?catoid=31&coid=490708), [Introduction to Python](https://www.cs.cornell.edu/courses/cs1110/2022fa/), [Multivariable Calculus](https://sce.cornell.edu/courses/roster/math-1910), [Physics Mechanics and Heat](https://sce.cornell.edu/courses/roster/phys-1112)"
+        "Relevant Coursework": "[Object Oriented Programming and Data Structures](https://courses.cornell.edu/preview_course_nopop.php?catoid=31&coid=490708), [Introduction to Python](https://www.cs.cornell.edu/courses/cs1110/2022fa/), [Multivariable Calculus](https://sce.cornell.edu/courses/roster/math-1920), [Physics Mechanics and Heat](https://sce.cornell.edu/courses/roster/phys-1112)"
       },
-      "range": "2022-2026 (Expected Graduation)"
-    },
-    {
-      "school": "[Princeton University, AI4ALL Summer Program](https://www.princeton.edu/)",
-      "degree": "Concentration",
-      "major": "Natural Language Processing (NLP), Machine Learning",
-      "notes": {
-        "Description": "A summer program taught by Princeton University Staff covering the fundamentals of AI and Machine Learning, with significant long-term projects using NLP to detect fake news and convolutional neural networks with reduced bias"
-      },
-      "range": "Jul 2020"
+      "range": "2022-2026"
     }
   ]
 }
