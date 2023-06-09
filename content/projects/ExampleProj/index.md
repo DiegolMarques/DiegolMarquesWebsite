@@ -1,8 +1,8 @@
 ---
-title: "Example Project"
+title: "Project Coming Soon"
 date: 2022-12-21T10:42:46-04:00
 featured: true
-description: "Example Project (Many Soon to Come!)"
+description: "Under Construction"
 tags: []
 resources:
 - name: "image"
