@@ -2,7 +2,7 @@
 title: "GigEship"
 date: 2023-6-9T00:42:22-05:00
 featured: true
-description: "GigEship is a Start Up that connects student entrepreneurs with developers to bring ideas to life."
+description: "GigEship connects student entrepreneurs with developers to bring ideas to life."
 tags: ["Web Development"]
 resources:
 - name: "image"
