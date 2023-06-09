@@ -1,22 +1,22 @@
 {
-    "schools": [
-      {
-        "school": "[Cornell University](https://www.cornell.edu/)",
-        "degree": "Bachelor of Science",
-        "major": "Computer Science",
-        "notes": {
-          "Relevant Coursework:": "[Object Oriented Programming and Data Structures](https://courses.cornell.edu/preview_course_nopop.php?catoid=31&coid=490708), [Intro to Computing with Python](https://www.cs.cornell.edu/courses/cs1110/2022fa/), [Multivariable Calculus](https://sce.cornell.edu/courses/roster/math-1910), [Physics](https://sce.cornell.edu/courses/roster/phys-1112), [Chemistry](https://classes.cornell.edu/browse/roster/FA20/class/CHEM/2090)"
-        },
-        "range": "2022-2026 (Expected Graduation)"
+  "schools": [
+    {
+      "school": "[Cornell University, College of Engineering](https://www.cornell.edu/)",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science",
+      "notes": {
+        "Relevant Coursework": "[Object Oriented Programming and Data Structures](https://courses.cornell.edu/preview_course_nopop.php?catoid=31&coid=490708), [Introduction to Python](https://www.cs.cornell.edu/courses/cs1110/2022fa/), [Multivariable Calculus](https://sce.cornell.edu/courses/roster/math-1910), [Physics Mechanics and Heat](https://sce.cornell.edu/courses/roster/phys-1112)"
       },
-      {
-        "school": "[Miami Beach Senior High School](https://miamibeachseniorhigh.net/)",
-        "degree": "IB Diploma",
-        "major": "GPA: 4.0",
-        "notes": {
-          "Rank": "Valedictorian"
-        },
-        "range": "2018-2022"
-      }
-    ]
-  }
+      "range": "2022-2026 (Expected Graduation)"
+    },
+    {
+      "school": "[Princeton University, AI4ALL Summer Program](https://www.princeton.edu/)",
+      "degree": "Concentration",
+      "major": "Natural Language Processing (NLP), Machine Learning",
+      "notes": {
+        "Description": "A summer program taught by Princeton University Staff covering the fundamentals of AI and Machine Learning, with significant long-term projects using NLP to detect fake news and convolutional neural networks with reduced bias"
+      },
+      "range": "Jul 2020"
+    }
+  ]
+}
