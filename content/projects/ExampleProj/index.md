@@ -2,7 +2,7 @@
 title: "Project Coming Soon"
 date: 2022-12-21T10:42:46-04:00
 featured: true
-description: "Under Construction"
+description: "Many Projects Coming Soon!"
 tags: []
 resources:
 - name: "image"
