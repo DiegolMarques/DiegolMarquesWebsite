@@ -3,31 +3,19 @@
       {
         "title": "Intern, Instructor @ [Lavner Education](https://www.lavner.com/)",
         "subtitle": "University of Miami, FL",
-        "summary": "- Instructed over 75 students in programming fundamentals, teaching Coding with Python and Coding with Java.\n- Assisted more than 100 students by troubleshooting software/hardware issues and providing personalized support.\n- Developed 3 engaging and interactive lesson plans, incorporating hands-on projects and exercises to enhance students' understanding and application of coding principles.",
+        "summary": "- **Instructed over 75 students** in programming fundamentals, teaching **Coding with Python** and **Coding with Java**.\n- Assisted **more than 100 students** by troubleshooting software/hardware issues and providing personalized support.\n- Developed **3 engaging and interactive lesson plans**, incorporating hands-on projects and exercises to enhance students' understanding and application of coding principles.",
         "range": "Jun 2023 - Present"
       },
       {
         "title": "Intern, Instructor @ [Learn 01](https://learn01.io/)",
         "subtitle": "Miami, FL",
-        "summary": "- Taught groups of 50+ entry-level students topics involving computer programming, algorithms, and cybersecurity.\n- Conducted organized and planned 100+ person events such as hackathons and competitive programming tournaments.\n- Contributed to the development of customizable and enjoyable student-based curriculum that is still in use.",
+        "summary": "- Taught groups of **50+ entry-level students** topics involving **computer programming**, **algorithms**, and **cybersecurity**.\n- Conducted **organized and planned 100+ person events** such as hackathons and competitive programming tournaments.\n- Contributed to the development of customizable and enjoyable **student-based curriculum** that is still in use.",
         "range": "Jun 2018 – Jun 2022"
-      },
-      {
-        "title": "Co-President / Lead Developer @ [Cornell WebDev](https://www.cornellwebdev.com/)",
-        "subtitle": "Ithaca, NY",
-        "summary": "- Developed a comprehensive and tailored curriculum for incoming members, providing essential web development skills, including proficiency in React, JavaScript, TypeScript, and CSS.\n- Led a team of 10+ developers in creating and maintaining GigEship, a Cornell startup connecting student entrepreneurs with software developers to bring college-based founders together.\n- Collaborated with other student organizations and departments to organize joint events, workshops, and hackathons, promoting engagement and networking within the web development community.",
-        "range": "Jan 2023 - Present"
-      },
-      {
-        "title": "Software Engineer @ [Cornell FinTech](https://cornellfintech.com/)",
-        "subtitle": "Ithaca, NY",
-        "summary": "- Designed and implemented a risk analytics platform using Django, significantly enhancing the accuracy of financial risk management processes for the Cornell FinTech Club and Cornell Business School.\n- Participated in code reviews with the Engineering Subteam to ensure scalability and security of the platform.\n- Conducted weekly testing and quality assurance, identifying and resolving bugs and other issues.",
-        "range": "Jan 2023 - Present"
       },
       {
         "title": "Head Programmer, Instructor @ [MBSH Robotics Club](https://miamibeachbots.webflow.io/)",
         "subtitle": "First Robotics",
-        "summary": "- Founded the MBSH Robotics Club in 2018 and helped grow the club from 4 to over 50 recurring members.\n- Led the programming and electrical subteams, placing 4th in the South Florida 2022 FIRST Robotics Competition.\n- Led Python/Java classes, teaching AI smart camera tracking and advanced drivetrain programming.",
+        "summary": "- Founded the MBSH Robotics Club in 2018 and helped grow the club from **4 to over 50 recurring members**.\n- Led the **programming and electrical subteams**, placing **4th in the South Florida 2022 FIRST Robotics Competition**.\n- Led Python/Java classes, teaching **AI smart camera tracking** and advanced **drivetrain programming**.",
         "range": "Aug 2018 – Jun 2022"
       },
       {
@@ -35,6 +23,18 @@
         "subtitle": "",
         "summary": "- Promote professional, social, and educational interaction among students interested in computer science.\n- Facilitate students' communication with CS faculty, alumni, and corporate representatives.\n- Cornell University’s chapter of the Association for Computing Machinery.",
         "range": "Mar 2020 – Oct 2020"
+      },
+      {
+        "title": "Co-President / Lead Developer @ [Cornell WebDev](https://www.cornellwebdev.com/)",
+        "subtitle": "Ithaca, NY",
+        "summary": "- Developed a comprehensive and tailored curriculum for incoming members, providing essential web development skills, including proficiency in **React**, **JavaScript**, **TypeScript**, and **CSS**.\n- Led a team of **10+ developers** in creating and maintaining GigEship, a Cornell startup connecting student entrepreneurs with software developers to bring college-based founders together.\n- Collaborated with other student organizations and departments to organize joint events, workshops, and hackathons, promoting engagement and networking within the web development community.",
+        "range": "Jan 2023 - Present"
+      },
+      {
+        "title": "Software Engineer @ [Cornell FinTech](https://cornellfintech.com/)",
+        "subtitle": "Ithaca, NY",
+        "summary": "- Designed and implemented a risk analytics platform using **Django**, significantly enhancing the accuracy of financial risk management processes for the Cornell FinTech Club and Cornell Business School.\n- Participated in code reviews with the Engineering Subteam to ensure scalability and security of the platform.\n- Conducted weekly testing and quality assurance, identifying and resolving bugs and other issues.",
+        "range": "Jan 2023 - Present"
       }
     ]
   }
