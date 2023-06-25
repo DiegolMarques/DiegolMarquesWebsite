@@ -6,7 +6,7 @@ sitemap:
   priority : 1.0
 ---
 
-A **sophomore** at **Cornell University** majoring in **computer science**. Previously, I worked as an **Intern and Instructor** for the [Learn 01](https://learn01.io/) Team. During high school, I conducted research on [Natural Language Processing (NLP) and Machine Learning](https://ai4all.princeton.edu/) with **Princeton University**. I have a strong understanding of **full-stack web development** and proficiency in various programming languages, operating systems, and frameworks. Apart from coding, I enjoy rock climbing and hiking.
+A **sophomore** at **Cornell University** majoring in **computer science**. Previously, I worked as an **IT Intern** for [Lavner Education](https://www.lavnercampsandprograms.com/) Team. During high school, I conducted research on [Natural Language Processing (NLP) and Machine Learning](https://ai4all.princeton.edu/) with **Princeton University**. I have a strong understanding of **full-stack web development** and proficiency in various programming languages, operating systems, and frameworks. Apart from coding, I enjoy rock climbing and hiking.
 
 This site was generated using [HUGO](https://gohugo.io) from an [open source theme](https://github.com/diegolmarques/hugo-resume-temp) via [GitHub](https://www.github.com/) and hosted on [Netlify](https://www.netlify.com/).
 
