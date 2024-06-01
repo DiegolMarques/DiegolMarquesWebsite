@@ -5,7 +5,7 @@
       "degree": "Bachelor of Science",
       "major": "Computer Science",
       "notes": {
-        "Relevant Coursework": "[Object Oriented Programming and Data Structures](https://courses.cornell.edu/preview_course_nopop.php?catoid=31&coid=490708), [Introduction to Python](https://www.cs.cornell.edu/courses/cs1110/2022fa/), [Multivariable Calculus](https://sce.cornell.edu/courses/roster/math-1920), [Physics Mechanics and Heat](https://sce.cornell.edu/courses/roster/phys-1112)"
+        "Relevant Coursework": "[Algorithms](https://www.cs.cornell.edu/courses/cs4820/2024sp/), [Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), [Artificial Intelligence](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), [Data Structures and Object Oriented Programming](https://sce.cornell.edu/courses/roster/cs-2110), [Discrete Structures](https://classes.cornell.edu/browse/roster/SP23/class/CS/2800), [Linear Algebra](https://sce.cornell.edu/courses/roster/math-2940), [Multivariable Calculus](https://sce.cornell.edu/courses/roster/math-1920)"
       },
       "range": "2022-2026"
     }
