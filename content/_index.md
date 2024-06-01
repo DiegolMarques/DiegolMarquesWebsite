@@ -6,7 +6,7 @@ sitemap:
   priority : 1.0
 ---
 
-A **junior** at **Cornell University**, majoring in **computer science**. Previously, I worked as a **Software Engineer Intern** for [Humana](https://www.humana.com/).  During high school, I conducted research on [Natural Language Processing (NLP) and Machine Learning](https://ai4all.princeton.edu/) with **Princeton University**. I have a strong understanding of **full-stack web development** and proficiency in various programming languages, operating systems, and frameworks. Apart from coding, I enjoy rock climbing and hiking.
+A **junior** at **Cornell University**, majoring in **computer science**. Previously, I worked as a **Software Engineer Intern** for [Humana](https://www.humana.com/). During high school, I conducted research on [Natural Language Processing (NLP) and Machine Learning](https://ai4all.princeton.edu/) with **Princeton University**. I have a strong understanding of **full-stack web development** and proficiency in various programming languages, operating systems, and frameworks. Apart from coding, I enjoy rock climbing and hiking.
 
 This site was generated using [HUGO](https://gohugo.io) from an [open source theme](https://github.com/diegolmarques/hugo-resume-temp) via [GitHub](https://www.github.com/) and hosted on [Netlify](https://www.netlify.com/).
 
