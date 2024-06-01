@@ -1,41 +1,34 @@
 {
-    "experiences": [
-      {
-        "title": "IT Intern @ Lavner Education",
-        "subtitle": "University of Miami, FL",
-        "summary": "- Developed programming documentation for **75+ prospective engineers**, focusing on core system design development.\n- Deployed code for **100+ team members** to diagnose errors through debugging techniques and error tracking systems.\n- Designed and coded several interactive full-stack projects, including a **personal budget tracker** and **task manager**, to facilitate practical experience through optimized code excerpts for target audiences.",
-        "range": "Jun 2023 - Present"
-      },
-      {
-        "title": "Technical Intern @ Learn 01",
-        "subtitle": "Miami, FL",
-        "summary": "- Taught groups of **50+ entry-level clients** topics involving **computer programming**, **algorithms**, and **cybersecurity**.\n- Conducted **organized and planned 100+ person events** such as hackathons and competitive programming tournaments.\n- Contributed to the development of customizable and enjoyable **student-based curriculum** that is still in use.",
-        "range": "Jun 2018 – Jun 2022"
-      },
-      {
-        "title": "Co-President / Lead Developer @ Cornell WebDev",
-        "subtitle": "Ithaca, NY",
-        "summary": "- Developed a comprehensive and tailored curriculum for incoming members, providing essential web development skills, including proficiency in **React**, **JavaScript**, **TypeScript**, and **CSS**.\n- Led a team of **10+ developers** in creating and maintaining GigEship, a Cornell startup connecting student entrepreneurs with software developers to bring college-based founders together.\n- Collaborated with other student organizations and departments to organize joint events, workshops, and hackathons, promoting engagement and networking within the web development community.",
-        "range": "Jan 2023 - Present"
-      },
-      {
-        "title": "Software Engineer @ Cornell FinTech",
-        "subtitle": "Ithaca, NY",
-        "summary": "- Designed and implemented a risk analytics platform using **Django**, significantly enhancing the accuracy of financial risk management processes for the Cornell FinTech Club and Cornell Business School.\n- Participated in code reviews with the Engineering Subteam to ensure scalability and security of the platform.\n- Conducted weekly testing and quality assurance, identifying and resolving bugs and other issues.",
-        "range": "Jan 2023 - Present"
-      },
-      {
-        "title": "Member @ [Association of Computer Science Undergraduates](https://acsu.cornell.edu/)",
-        "subtitle": "",
-        "summary": "- Promote professional, social, and educational interaction among students interested in computer science.\n- Facilitate students' communication with CS faculty, alumni, and corporate representatives.\n- Cornell University’s chapter of the Association for Computing Machinery.",
-        "range": "Aug 2022 – Present"
-      },
-      {
-        "title": "Head Programmer, Instructor @ [MBSH Robotics Club](https://miamibeachbots.webflow.io/)",
-        "subtitle": "First Robotics",
-        "summary": "- Founded the MBSH Robotics Club in 2018 and helped grow the club from **4 to over 50 recurring members**.\n- Led the **programming and electrical subteams**, placing **4th in the South Florida 2022 FIRST Robotics Competition**.\n- Led Python/Java classes, teaching **AI smart camera tracking** and advanced **drivetrain programming**.",
-        "range": "Aug 2018 – Jun 2022"
-      }
-    ]
-  }
-  
+  "experiences": [
+    {
+      "title": "Software Engineering Intern @ Humana",
+      "subtitle": "Miami, FL",
+      "summary": "- Developed generative AI tools to automate IT workflows, enhancing IT development productivity and authored a comprehensive report on leveraging AI to simplify complex healthcare concepts for consumers.\n- Gained proficiency in **Agile methodologies** with **Azure DevOps**, reducing project deployment time by nearly **30%**.\n- Organized a hackathon with **100 participants**, leading to **11 projects** suitable for company-level deployment.",
+      "range": "May 2024 - Aug 2024"
+    },
+    {
+      "title": "IT Intern @ Lavner Education",
+      "subtitle": "Miami, FL",
+      "summary": "- Developed documentation and lesson plans for **75+ prospective engineers** focusing on core system design.\n- Coordinated and facilitated hands-on workshops for web development frameworks, guiding participants through building a dynamic portfolio website using **HTML, CSS, and JavaScript**.\n- Designed and coded several interactive full-stack example projects to reinforce essential programming concepts.",
+      "range": "Jun 2023 - Aug 2023"
+    },
+    {
+      "title": "Technical Lead @ Cornell Hack4Impact",
+      "subtitle": "Ithaca, NY",
+      "summary": "- Leading a team of **6 developers**, architecting and developing the Cornell Endowment Manager Application, a platform tailored for financial management of non-profit organizations and academic institutions.\n- Developed full-stack solutions for the **OKB Hope Foundation**, enabling virtual appointments and consultations between Ghanaian patients and psychiatrists, leveraging the **FERN (Firebase, Express.js, React, Node.js)** tech stack.\n- Contributed to the **Lagos Food Bank Initiative**, focusing on nutrition and hunger relief, using **React, Next.js, Prisma, and PostgreSQL**.",
+      "range": "Sep 2023 - Present"
+    },
+    {
+      "title": "Software Engineer @ Cornell FinTech",
+      "subtitle": "Ithaca, NY",
+      "summary": "- Led a team of **5 developers** in designing and deploying a web-based sentiment analysis platform applying **NLP** to evaluate stock sentiment via public opinions and social media data.\n- Contributed to the development of a **risk analytics platform** using **Django** by implementing data visualization tools and integrating real-time market data feeds.\n- Researched stock prediction, focusing on integrating **machine learning algorithms** and historical market trends to enhance the accuracy of predictive models.",
+      "range": "Jan 2023 - Present"
+    },
+    {
+      "title": "Co-President / Lead Developer @ Cornell WebDev",
+      "subtitle": "Ithaca, NY",
+      "summary": "- Developed a tailored curriculum for new team members, providing essential web development skills, including proficiency in **React**, **JavaScript**, **TypeScript**, and **CSS**.\n- Founded 'GigEship,' a Cornell startup that connects student entrepreneurs with software developers, fostering collaboration among college-based founders and led a team of **10+ developers**.\n- Collaborated with other student organizations and departments to organize joint events, workshops, and hackathons, promoting engagement and networking within the web development community.",
+      "range": "Jan 2023 - Present"
+    }
+  ]
+}
