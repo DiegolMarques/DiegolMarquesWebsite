@@ -1,5 +1,11 @@
 {
   "experiences": [
+     {
+      "title": "Software Engineering Intern @ Capital One",
+      "subtitle": "New York, NY",
+      "summary": "- Developed an API using AWS Lambda, Glue, S3, and TypeScript to support new Generative AI verticals, enhancing personalized travel experiences for luxury Capital One users. \n- Processed and analyzed daily updated inventory and confidential user data using Glue jobs orchestrated by Apache Airflow, compiling them for enhanced personalized experiences for all premium cardholders. \n- Improved data pipeline efficiency by automating daily inventory and customer pattern analysis, enabling faster, data-driven decision-making across the team.",
+      "range": "May 2024 - Aug 2024"
+    },
     {
       "title": "Software Engineering Intern @ Humana",
       "subtitle": "Miami, FL",
@@ -22,13 +28,13 @@
       "title": "Software Engineer @ Cornell FinTech",
       "subtitle": "Ithaca, NY",
       "summary": "- Led a team of **5 developers** in designing and deploying a web-based sentiment analysis platform applying **NLP** to evaluate stock sentiment via public opinions and social media data.\n- Contributed to the development of a **risk analytics platform** using **Django** by implementing data visualization tools and integrating real-time market data feeds.\n- Researched stock prediction, focusing on integrating **machine learning algorithms** and historical market trends to enhance the accuracy of predictive models.",
-      "range": "Jan 2023 - Present"
+      "range": "Jan 2023 - May 2025"
     },
     {
       "title": "Co-President / Lead Developer @ Cornell WebDev",
       "subtitle": "Ithaca, NY",
       "summary": "- Developed a tailored curriculum for new team members, providing essential web development skills, including proficiency in **React**, **JavaScript**, **TypeScript**, and **CSS**.\n- Founded 'GigEship,' a Cornell startup that connects student entrepreneurs with software developers, fostering collaboration among college-based founders and led a team of **10+ developers**.\n- Collaborated with other student organizations and departments to organize joint events, workshops, and hackathons, promoting engagement and networking within the web development community.",
-      "range": "Jan 2023 - Present"
+      "range": "Jan 2023 - May 2024"
     }
   ]
 }
