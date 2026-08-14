@@ -1,6 +1,12 @@
 {
   "experiences": [
      {
+      "title": "Software Engineer @ Capital One",
+      "subtitle": "McLean, VA",
+      "summary": "",
+      "range": "Aug 2026 - Present"
+    },
+     {
       "title": "Software Engineering Intern @ Capital One",
       "subtitle": "New York, NY",
       "summary": "- Developed an API using AWS Lambda, Glue, S3, and TypeScript to support new Generative AI verticals, enhancing personalized travel experiences for luxury Capital One users. \n- Processed and analyzed daily updated inventory and confidential user data using Glue jobs orchestrated by Apache Airflow, compiling them for enhanced personalized experiences for all premium cardholders. \n- Improved data pipeline efficiency by automating daily inventory and customer pattern analysis, enabling faster, data-driven decision-making across the team.",
