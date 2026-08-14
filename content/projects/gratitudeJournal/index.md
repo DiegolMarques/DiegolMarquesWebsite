@@ -1,6 +1,6 @@
 ---
 title: "Gratitude Journal"
-date: 2023-1-1T8:42:46-04:00
+date: 2023-01-01T08:42:46-04:00
 featured: true
 description: "MERN CRUD App used for Gratitude journaling"
 tags: ["Web Development"]

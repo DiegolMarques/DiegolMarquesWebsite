@@ -1,6 +1,6 @@
 ---
 title: "GigEship"
-date: 2023-6-9T00:42:22-05:00
+date: 2023-06-09T00:42:22-05:00
 featured: true
 description: "GigEship connects student entrepreneurs with developers to bring ideas to life."
 tags: ["Web Development"]
